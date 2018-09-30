@@ -9,3 +9,6 @@ awesome-ics-security-learning是我在ics security学习过程中的一个总结
 # 工控相关法案
 # 工控安全事件
 # 工控相关会议和活动
+# 参考
+  - awesome-industrial-control-system-security[https://github.com/hslatman/awesome-industrial-control-system-security]
+  
